@@ -33,6 +33,7 @@ def zig_zag(root):
         order = not order
     return levels
 
+
 if __name__ == "__main__":
     node1 = Node(1)
     node2 = Node(2)
